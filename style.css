@@ -42,12 +42,31 @@ width:80%;
     text-align: center;
 }
 .half{
-    
     float: left;
-    width: 30%;
-    padding:2%;
-    margin-left: 5%;
+    width: 22%;
+    padding: 2%;
+    margin: 3%;
 }
+.half img{
+    width: 100%;
+}
+.text{
+    text-align: center;
+}
+.latest{
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+   
+}
+.new{
+    background-color: deeppink;
+    border: 5px solid deeppink;
+    margin-top: 30px;
+    margin-bottom: 10%;
+    border-radius: 5px;
+}
+    
+  
 
 
     
